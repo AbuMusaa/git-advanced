@@ -1,4 +1,4 @@
-# git-advanced
+# git-advanced-tutoiral
 
 ### Hello programmers, I am learnig git and Github advanced topic
 
